@@ -1,0 +1,5 @@
+Compilador lexico utilizando a biblioteca JFLEX.
+
+Tendo como base o artigo e arquivos do github abaixo.
+https://github.com/johnidm/compiladores-para-humanos/blob/master/part2/using-jflex-java-cup.md
+https://johnidm.gitbooks.io/compiladores-para-humanos/content/part2/building-the-first-lexical-analyzer-with-JFlex.html
